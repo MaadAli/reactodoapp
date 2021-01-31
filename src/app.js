@@ -1,3 +1,5 @@
+//couldnt complete all of it as per your requirements as had a delivery on friday
+
 class TodoApp extends React.Component {
   constructor(props) {
     super(props);
